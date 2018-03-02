@@ -1,4 +1,5 @@
 # Wikipedia-with-LSA
+( Latent Semantic Analysis )
 
 The text data is preprocessed to calculate TF / IDF
 
